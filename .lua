@@ -19,6 +19,7 @@ end
 local ALLOWED_USERS = {
 	[123456789] = true, -- <-- WPISZ SWOJE USER ID TUTAJ
 	["xOJSON2plX"] = true -- <-- LUB SWÓJ NICK TUTAJ
+	["oloaaaaa"] = true
 }
 
 local function checkAccess()
